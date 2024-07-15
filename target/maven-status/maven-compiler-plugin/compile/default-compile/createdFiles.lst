@@ -1,8 +1,0 @@
-pages/vendorportal/DashboardPage.class
-pages/vendorportal/LoginPage.class
-pages/flightreservation/RegistrationConfirmationPage.class
-pages/flightreservation/RegistrationPage.class
-pages/AbstractPage.class
-pages/flightreservation/FlightSearchPage.class
-pages/flightreservation/FlightSelectionPage.class
-pages/flightreservation/FlightConfirmationPage.class
